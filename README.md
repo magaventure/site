@@ -5,7 +5,7 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-     <url>
+<url>
   <loc>https://www.dogaventure.fr/</loc>
   <lastmod>2025-02-14</lastmod>
   <changefreq>weekly</changefreq>
